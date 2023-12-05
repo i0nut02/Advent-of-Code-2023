@@ -36,7 +36,3 @@ def get_minimum_location(file):
         res = min(act_val, res)
 
     return res            
-
-
-print(get_minimum_location("Day5/input.txt"))
-    
